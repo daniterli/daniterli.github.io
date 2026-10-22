@@ -1,5 +1,5 @@
 # Futterhof
 
-Ein gemütliches Hofspiel für kurze Pausen. Spielen: https://daniterli.github.io/futterhof/
+Mach das ganze Tal satt. Ein Hofspiel, in dem niemand kämpft. Spielen: https://daniterli.github.io/futterhof/
 
 Copyright Futterhof. Alle Rechte vorbehalten. Der Code darf nicht kopiert, verändert oder weiterverbreitet werden.
